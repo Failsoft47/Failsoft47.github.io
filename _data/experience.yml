@@ -1,19 +1,19 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Field Service Technician
+- company: Motorola Solutions Inc.
+  position: Field Service Technician
+  duration: Jan, 2023 &mdash; Present
+  summary: I manage and maintain mission-critical communication systems, ensuring optimal performance and reliability. My duties include configuring and troubleshooting servers, networks, and emergency communication systems. I also handle incident response, quickly diagnosing and resolving system issues to minimize downtime for government and public safety clients. I lead technical teams on complex projects and collaborate closely with engineering to implement and support advanced communication solutions.	<ul class="resume-item-list"><li>Upgrade an entire enterprise level network in unfavorable odds</li><li>Deployed Solarwinds covering the entire MPLS Backhaul</li><li>Active Eye Team, Deploying the Latests SIEM product from Motorola</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Manufacturing Technician
+- company: L3Harris Technologies Inc.
+  position: Manufacturing Technician
+  duration:  Oct, 2019 &mdash; Jul, 2021
+  summary: I specialized in troubleshooting and repairing military communication systems, including vehicle-mounted, backpack, and handheld radios. My role involved using tools like LabVIEW and MATLAB to diagnose and fix circuit board issues. I also led process improvements, optimizing testing procedures and implementing upgrades to IP services, SHF radio systems, and satellite antennas, ensuring reliable communication for military operations.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Electronics Technician
+- company: U.S. Navy
+  position: Electronics Technician
+  duration:   Nov, 2015  &mdash; Jun, 2019
+  summary: I managed and maintained all communication and navigation systems aboard the USS Hue City. My responsibilities included troubleshooting and repairing critical communication equipment, upgrading IP services, SHF radio systems, and satellite antennas. I ensured the reliability of mission-critical systems during naval operations, playing a key role in maintaining the ship’s readiness and operational capabilities.
